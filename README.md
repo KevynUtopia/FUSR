@@ -1,12 +1,13 @@
 # Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN
 
-This is the official PyTorch implementation of the paper "[Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN]([https://link.springer.com/chapter/10.1007/978-3-031-16434-7_62](https://arxiv.org/pdf/2309.17269.pdf))"
+## Overview
+
+
+This repository contains the offical PyTorch implementation of the paper: "[Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN]([https://link.springer.com/chapter/10.1007/978-3-031-16434-7_62](https://arxiv.org/pdf/2309.17269.pdf))"
 
 
 ## Dependences
-
 - Prepare enviornment:
-
   ```shell script
   conda env create --name fusr --file fusr.yaml
   conda activate fusr
@@ -17,7 +18,7 @@ This is the official PyTorch implementation of the paper "[Unpaired Optical Cohe
   
 - Training:
   ```shell script
-  bash run.sh
+  bash ./run.sh
   ``` 
 
 ## Acknowledgements
