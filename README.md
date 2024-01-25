@@ -3,7 +3,7 @@
 ## Overview
 
 
-This repository contains the offical PyTorch implementation of the paper: "[Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN](https://arxiv.org/pdf/2309.17269.pdf)"
+This repository contains the offical PyTorch implementation of the paper: "[Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN](https://arxiv.org/pdf/2309.17269.pdf)", which is the extension of our MICCAI 2022 [conference paper](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_62).
 
 
 ## Dependences
