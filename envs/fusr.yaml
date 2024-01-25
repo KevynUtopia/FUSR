@@ -1,0 +1,4 @@
+name: octa
+channels:
+  - defaults
+prefix: /home/wzhangbu/anaconda3/envs/octa
