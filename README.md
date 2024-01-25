@@ -15,8 +15,9 @@ This repository contains the offical PyTorch implementation of the paper: "[Unpa
   cd pytorch_wavelets
   pip install .
   ```
-  
-- Training:
+
+## Training
+- Run the following script:
   ```shell script
   bash ./run.sh
   ``` 
