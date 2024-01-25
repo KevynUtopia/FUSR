@@ -1,0 +1,307 @@
+Adjusting learning rate of group 0 to 2.0000e-04.
+Epoch (1/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:26<00:00, 11.20it/s]
+ PSNR: 17.6056 SSIM: 0.4780 MSE: 0.0703 NMI: 1.0596 FSIM: 0.8873
+ PSNR: 17.8647 SSIM: 0.5223 MSE: 0.0669 NMI: 1.0646 FSIM: 0.9168
+---------- time cost: 452 s----------
+Adjusting learning rate of group 0 to 2.0000e-04.
+Adjusting learning rate of group 0 to 2.0000e-04.
+Epoch (2/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:26<00:00, 11.19it/s]
+ PSNR: 16.9340 SSIM: 0.4942 MSE: 0.0824 NMI: 1.0588 FSIM: 0.8679
+ PSNR: 16.8222 SSIM: 0.4895 MSE: 0.0861 NMI: 1.0637 FSIM: 0.9018
+---------- time cost: 435 s----------
+Adjusting learning rate of group 0 to 2.0000e-04.
+Adjusting learning rate of group 0 to 2.0000e-04.
+Epoch (3/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:26<00:00, 11.10it/s]
+ PSNR: 17.3358 SSIM: 0.4842 MSE: 0.0750 NMI: 1.0593 FSIM: 0.8926
+ PSNR: 17.8048 SSIM: 0.5239 MSE: 0.0676 NMI: 1.0651 FSIM: 0.9192
+---------- time cost: 437 s----------
+Adjusting learning rate of group 0 to 2.0000e-04.
+Adjusting learning rate of group 0 to 2.0000e-04.
+Epoch (4/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:26<00:00, 11.12it/s]
+ PSNR: 17.3065 SSIM: 0.4892 MSE: 0.0752 NMI: 1.0550 FSIM: 0.8950
+ PSNR: 17.2431 SSIM: 0.5116 MSE: 0.0769 NMI: 1.0595 FSIM: 0.9069
+---------- time cost: 440 s----------
+Adjusting learning rate of group 0 to 2.0000e-04.
+Adjusting learning rate of group 0 to 2.0000e-04.
+Epoch (5/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:26<00:00, 11.08it/s]
+ PSNR: 17.4491 SSIM: 0.4966 MSE: 0.0729 NMI: 1.0580 FSIM: 0.8953
+ PSNR: 17.5590 SSIM: 0.5263 MSE: 0.0717 NMI: 1.0630 FSIM: 0.9147
+---------- time cost: 438 s----------
+Adjusting learning rate of group 0 to 2.0000e-04.
+Adjusting learning rate of group 0 to 2.0000e-04.
+Epoch (6/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:26<00:00, 11.28it/s]
+ PSNR: 17.6019 SSIM: 0.4859 MSE: 0.0704 NMI: 1.0585 FSIM: 0.8858
+ PSNR: 17.7824 SSIM: 0.5260 MSE: 0.0681 NMI: 1.0650 FSIM: 0.9162
+---------- time cost: 454 s----------
+Adjusting learning rate of group 0 to 2.0000e-04.
+Adjusting learning rate of group 0 to 2.0000e-04.
+Epoch (7/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:30<00:00,  9.79it/s]
+ PSNR: 16.9524 SSIM: 0.5075 MSE: 0.0819 NMI: 1.0582 FSIM: 0.8901
+ PSNR: 17.1408 SSIM: 0.5253 MSE: 0.0791 NMI: 1.0636 FSIM: 0.9144
+---------- time cost: 478 s----------
+Adjusting learning rate of group 0 to 2.0000e-04.
+Adjusting learning rate of group 0 to 2.0000e-04.
+Epoch (8/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:30<00:00,  9.85it/s]
+ PSNR: 17.6267 SSIM: 0.4852 MSE: 0.0700 NMI: 1.0591 FSIM: 0.8813
+ PSNR: 17.7086 SSIM: 0.5223 MSE: 0.0696 NMI: 1.0641 FSIM: 0.9146
+---------- time cost: 484 s----------
+Adjusting learning rate of group 0 to 2.0000e-04.
+Adjusting learning rate of group 0 to 2.0000e-04.
+Epoch (9/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:30<00:00,  9.88it/s]
+ PSNR: 17.6722 SSIM: 0.4807 MSE: 0.0692 NMI: 1.0587 FSIM: 0.8880
+ PSNR: 17.7584 SSIM: 0.5225 MSE: 0.0685 NMI: 1.0650 FSIM: 0.9153
+---------- time cost: 482 s----------
+Adjusting learning rate of group 0 to 2.0000e-04.
+Adjusting learning rate of group 0 to 2.0000e-04.
+Epoch (10/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:29<00:00,  9.91it/s]
+ PSNR: 17.2830 SSIM: 0.4616 MSE: 0.0758 NMI: 1.0589 FSIM: 0.8886
+ PSNR: 17.7035 SSIM: 0.5007 MSE: 0.0692 NMI: 1.0640 FSIM: 0.9152
+---------- time cost: 483 s----------
+Adjusting learning rate of group 0 to 1.9500e-04.
+Adjusting learning rate of group 0 to 1.9500e-04.
+Epoch (11/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:26<00:00, 11.16it/s]
+ PSNR: 17.4982 SSIM: 0.4719 MSE: 0.0721 NMI: 1.0582 FSIM: 0.8788
+ PSNR: 17.7956 SSIM: 0.5122 MSE: 0.0678 NMI: 1.0648 FSIM: 0.9109
+---------- time cost: 468 s----------
+Adjusting learning rate of group 0 to 1.9000e-04.
+Adjusting learning rate of group 0 to 1.9000e-04.
+Epoch (12/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:26<00:00, 11.31it/s]
+ PSNR: 16.9963 SSIM: 0.5014 MSE: 0.0811 NMI: 1.0582 FSIM: 0.8905
+ PSNR: 16.5857 SSIM: 0.4768 MSE: 0.0911 NMI: 1.0649 FSIM: 0.9098
+---------- time cost: 433 s----------
+Adjusting learning rate of group 0 to 1.8500e-04.
+Adjusting learning rate of group 0 to 1.8500e-04.
+Epoch (13/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:26<00:00, 11.11it/s]
+ PSNR: 17.5211 SSIM: 0.4744 MSE: 0.0718 NMI: 1.0590 FSIM: 0.8849
+ PSNR: 17.9513 SSIM: 0.5201 MSE: 0.0655 NMI: 1.0657 FSIM: 0.9154
+---------- time cost: 437 s----------
+ Adjusting learning rate of group 0 to 1.8000e-04.
+Adjusting learning rate of group 0 to 1.8000e-04.
+Epoch (14/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:25<00:00, 11.42it/s]
+ PSNR: 17.6801 SSIM: 0.4808 MSE: 0.0690 NMI: 1.0592 FSIM: 0.8830
+ PSNR: 17.8797 SSIM: 0.5244 MSE: 0.0667 NMI: 1.0655 FSIM: 0.9155
+---------- time cost: 436 s----------
+Adjusting learning rate of group 0 to 1.7500e-04.
+Adjusting learning rate of group 0 to 1.7500e-04.
+Epoch (15/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:26<00:00, 11.42it/s]
+ PSNR: 17.3427 SSIM: 0.4758 MSE: 0.0748 NMI: 1.0572 FSIM: 0.8912
+ PSNR: 17.7955 SSIM: 0.5120 MSE: 0.0678 NMI: 1.0645 FSIM: 0.9152
+---------- time cost: 441 s----------
+Adjusting learning rate of group 0 to 1.7000e-04.
+Adjusting learning rate of group 0 to 1.7000e-04.
+Epoch (16/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:25<00:00, 11.42it/s]
+ PSNR: 17.6724 SSIM: 0.4926 MSE: 0.0692 NMI: 1.0594 FSIM: 0.8817
+ PSNR: 17.7409 SSIM: 0.5255 MSE: 0.0689 NMI: 1.0652 FSIM: 0.9148
+---------- time cost: 449 s----------
+Adjusting learning rate of group 0 to 1.6500e-04.
+Adjusting learning rate of group 0 to 1.6500e-04.
+Epoch (17/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.58it/s]
+ PSNR: 17.3778 SSIM: 0.5176 MSE: 0.0743 NMI: 1.0577 FSIM: 0.9020
+ PSNR: 17.3241 SSIM: 0.5286 MSE: 0.0760 NMI: 1.0645 FSIM: 0.9197
+---------- time cost: 451 s----------
+Adjusting learning rate of group 0 to 1.6000e-04.
+Adjusting learning rate of group 0 to 1.6000e-04.
+Epoch (18/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:27<00:00, 10.84it/s]
+ PSNR: 17.5961 SSIM: 0.4865 MSE: 0.0704 NMI: 1.0583 FSIM: 0.8951
+ PSNR: 17.7730 SSIM: 0.5249 MSE: 0.0683 NMI: 1.0641 FSIM: 0.9183
+---------- time cost: 455 s----------
+Adjusting learning rate of group 0 to 1.5500e-04.
+Adjusting learning rate of group 0 to 1.5500e-04.
+Epoch (19/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:27<00:00, 10.72it/s]
+ PSNR: 17.6447 SSIM: 0.4820 MSE: 0.0697 NMI: 1.0589 FSIM: 0.8906
+ PSNR: 17.8747 SSIM: 0.5230 MSE: 0.0667 NMI: 1.0651 FSIM: 0.9179
+---------- time cost: 453 s----------
+Adjusting learning rate of group 0 to 1.5000e-04.
+Adjusting learning rate of group 0 to 1.5000e-04.
+Epoch (20/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:27<00:00, 10.89it/s]
+ PSNR: 17.3256 SSIM: 0.4768 MSE: 0.0750 NMI: 1.0583 FSIM: 0.8879
+ PSNR: 17.6573 SSIM: 0.5106 MSE: 0.0699 NMI: 1.0635 FSIM: 0.9123
+---------- time cost: 447 s----------
+Adjusting learning rate of group 0 to 1.4500e-04.
+Adjusting learning rate of group 0 to 1.4500e-04.
+Epoch (21/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:26<00:00, 11.21it/s]
+ PSNR: 17.5034 SSIM: 0.4836 MSE: 0.0721 NMI: 1.0590 FSIM: 0.8890
+ PSNR: 17.8206 SSIM: 0.5207 MSE: 0.0675 NMI: 1.0647 FSIM: 0.9147
+---------- time cost: 453 s----------
+Adjusting learning rate of group 0 to 1.4000e-04.
+Adjusting learning rate of group 0 to 1.4000e-04.
+Epoch (22/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.52it/s]
+ PSNR: 17.3514 SSIM: 0.5083 MSE: 0.0748 NMI: 1.0577 FSIM: 0.8968
+ PSNR: 17.5869 SSIM: 0.5346 MSE: 0.0715 NMI: 1.0645 FSIM: 0.9202
+---------- time cost: 450 s----------
+Adjusting learning rate of group 0 to 1.3500e-04.
+Adjusting learning rate of group 0 to 1.3500e-04.
+Epoch (23/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.60it/s]
+ PSNR: 17.4853 SSIM: 0.4864 MSE: 0.0724 NMI: 1.0583 FSIM: 0.8865
+ PSNR: 17.8123 SSIM: 0.5235 MSE: 0.0677 NMI: 1.0651 FSIM: 0.9141
+---------- time cost: 455 s----------
+Adjusting learning rate of group 0 to 1.3000e-04.
+Adjusting learning rate of group 0 to 1.3000e-04.
+Epoch (24/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.53it/s]
+ PSNR: 17.5437 SSIM: 0.4856 MSE: 0.0714 NMI: 1.0581 FSIM: 0.8820
+ PSNR: 17.8337 SSIM: 0.5246 MSE: 0.0674 NMI: 1.0655 FSIM: 0.9145
+---------- time cost: 459 s----------
+Adjusting learning rate of group 0 to 1.2500e-04.
+Adjusting learning rate of group 0 to 1.2500e-04.
+Epoch (25/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:27<00:00, 10.63it/s]
+ PSNR: 17.5498 SSIM: 0.4788 MSE: 0.0712 NMI: 1.0584 FSIM: 0.8844
+ PSNR: 17.8970 SSIM: 0.5237 MSE: 0.0663 NMI: 1.0652 FSIM: 0.9159
+---------- time cost: 455 s----------
+Adjusting learning rate of group 0 to 1.2000e-04.
+Adjusting learning rate of group 0 to 1.2000e-04.
+Epoch (26/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:27<00:00, 10.69it/s]
+ PSNR: 17.5729 SSIM: 0.4805 MSE: 0.0710 NMI: 1.0584 FSIM: 0.8882
+ PSNR: 17.9009 SSIM: 0.5216 MSE: 0.0663 NMI: 1.0653 FSIM: 0.9158
+---------- time cost: 460 s----------
+Adjusting learning rate of group 0 to 1.1500e-04.
+Adjusting learning rate of group 0 to 1.1500e-04.
+Epoch (27/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.49it/s]
+ PSNR: 17.3729 SSIM: 0.5142 MSE: 0.0744 NMI: 1.0574 FSIM: 0.9006
+ PSNR: 17.3342 SSIM: 0.5313 MSE: 0.0759 NMI: 1.0637 FSIM: 0.9176
+---------- time cost: 450 s----------
+Adjusting learning rate of group 0 to 1.1000e-04.
+Adjusting learning rate of group 0 to 1.1000e-04.
+Epoch (28/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.52it/s]
+ PSNR: 17.5733 SSIM: 0.4873 MSE: 0.0709 NMI: 1.0591 FSIM: 0.8889
+ PSNR: 17.8743 SSIM: 0.5279 MSE: 0.0667 NMI: 1.0653 FSIM: 0.9173
+---------- time cost: 455 s----------
+Adjusting learning rate of group 0 to 1.0500e-04.
+Adjusting learning rate of group 0 to 1.0500e-04.
+Epoch (29/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.50it/s]
+ PSNR: 17.6336 SSIM: 0.4902 MSE: 0.0698 NMI: 1.0586 FSIM: 0.8928
+ PSNR: 17.7616 SSIM: 0.5251 MSE: 0.0685 NMI: 1.0643 FSIM: 0.9150
+---------- time cost: 459 s----------
+Adjusting learning rate of group 0 to 1.0000e-04.
+Adjusting learning rate of group 0 to 1.0000e-04.
+Epoch (30/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:26<00:00, 11.35it/s]
+ PSNR: 17.5229 SSIM: 0.4739 MSE: 0.0718 NMI: 1.0590 FSIM: 0.8800
+ PSNR: 17.8986 SSIM: 0.5192 MSE: 0.0663 NMI: 1.0656 FSIM: 0.9126
+---------- time cost: 438 s----------
+Adjusting learning rate of group 0 to 9.5000e-05.
+Adjusting learning rate of group 0 to 9.5000e-05.
+Epoch (31/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.58it/s]
+ PSNR: 17.5282 SSIM: 0.4793 MSE: 0.0717 NMI: 1.0586 FSIM: 0.8864
+ PSNR: 17.8322 SSIM: 0.5218 MSE: 0.0673 NMI: 1.0648 FSIM: 0.9140
+---------- time cost: 469 s----------
+Adjusting learning rate of group 0 to 9.0000e-05.
+Adjusting learning rate of group 0 to 9.0000e-05.
+Epoch (32/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.60it/s]
+ PSNR: 17.4020 SSIM: 0.5060 MSE: 0.0738 NMI: 1.0572 FSIM: 0.8989
+ PSNR: 17.4249 SSIM: 0.5281 MSE: 0.0742 NMI: 1.0637 FSIM: 0.9191
+---------- time cost: 452 s----------
+Adjusting learning rate of group 0 to 8.5000e-05.
+Adjusting learning rate of group 0 to 8.5000e-05.
+Epoch (33/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.54it/s]
+ PSNR: 17.5716 SSIM: 0.4865 MSE: 0.0709 NMI: 1.0582 FSIM: 0.8896
+ PSNR: 17.8596 SSIM: 0.5246 MSE: 0.0669 NMI: 1.0652 FSIM: 0.9153
+---------- time cost: 457 s----------
+Adjusting learning rate of group 0 to 8.0000e-05.
+Adjusting learning rate of group 0 to 8.0000e-05.
+Epoch (34/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:27<00:00, 10.67it/s]
+ PSNR: 17.5307 SSIM: 0.4700 MSE: 0.0715 NMI: 1.0588 FSIM: 0.8809
+ PSNR: 17.9018 SSIM: 0.5186 MSE: 0.0662 NMI: 1.0652 FSIM: 0.9146
+---------- time cost: 458 s----------
+Adjusting learning rate of group 0 to 7.5000e-05.
+Adjusting learning rate of group 0 to 7.5000e-05.
+Epoch (35/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.53it/s]
+ PSNR: 17.6541 SSIM: 0.4921 MSE: 0.0696 NMI: 1.0590 FSIM: 0.8903
+ PSNR: 17.8227 SSIM: 0.5296 MSE: 0.0676 NMI: 1.0653 FSIM: 0.9176
+---------- time cost: 456 s----------
+Adjusting learning rate of group 0 to 7.0000e-05.
+Adjusting learning rate of group 0 to 7.0000e-05.
+Epoch (36/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.59it/s]
+ PSNR: 17.5594 SSIM: 0.4753 MSE: 0.0711 NMI: 1.0593 FSIM: 0.8840
+ PSNR: 17.9596 SSIM: 0.5202 MSE: 0.0654 NMI: 1.0660 FSIM: 0.9156
+---------- time cost: 467 s----------
+Adjusting learning rate of group 0 to 6.5000e-05.
+Adjusting learning rate of group 0 to 6.5000e-05.
+Epoch (37/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:27<00:00, 10.67it/s]
+ PSNR: 17.3757 SSIM: 0.5094 MSE: 0.0743 NMI: 1.0581 FSIM: 0.8977
+ PSNR: 17.4599 SSIM: 0.5321 MSE: 0.0736 NMI: 1.0642 FSIM: 0.9185
+---------- time cost: 450 s----------
+Adjusting learning rate of group 0 to 6.0000e-05.
+Adjusting learning rate of group 0 to 6.0000e-05.
+Epoch (38/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:27<00:00, 10.63it/s]
+ PSNR: 17.6118 SSIM: 0.4736 MSE: 0.0702 NMI: 1.0594 FSIM: 0.8816
+ PSNR: 17.9661 SSIM: 0.5228 MSE: 0.0653 NMI: 1.0660 FSIM: 0.9153
+---------- time cost: 457 s----------
+Adjusting learning rate of group 0 to 5.5000e-05.
+Adjusting learning rate of group 0 to 5.5000e-05.
+Epoch (39/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:27<00:00, 10.69it/s]
+ PSNR: 17.5512 SSIM: 0.4709 MSE: 0.0712 NMI: 1.0591 FSIM: 0.8776
+ PSNR: 17.9765 SSIM: 0.5216 MSE: 0.0652 NMI: 1.0661 FSIM: 0.9144
+---------- time cost: 457 s----------
+Adjusting learning rate of group 0 to 5.0000e-05.
+Adjusting learning rate of group 0 to 5.0000e-05.
+Epoch (40/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:27<00:00, 10.72it/s]
+ PSNR: 17.5530 SSIM: 0.4752 MSE: 0.0712 NMI: 1.0588 FSIM: 0.8854
+ PSNR: 17.9014 SSIM: 0.5202 MSE: 0.0662 NMI: 1.0653 FSIM: 0.9154
+---------- time cost: 460 s----------
+Adjusting learning rate of group 0 to 4.5000e-05.
+Adjusting learning rate of group 0 to 4.5000e-05.
+Epoch (41/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.59it/s]
+ PSNR: 17.6914 SSIM: 0.4841 MSE: 0.0689 NMI: 1.0597 FSIM: 0.8867
+ PSNR: 17.8685 SSIM: 0.5283 MSE: 0.0669 NMI: 1.0653 FSIM: 0.9162
+---------- time cost: 471 s----------
+Adjusting learning rate of group 0 to 4.0000e-05.
+Adjusting learning rate of group 0 to 4.0000e-05.
+Epoch (42/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:28<00:00, 10.50it/s]
+ PSNR: 17.4029 SSIM: 0.5102 MSE: 0.0737 NMI: 1.0578 FSIM: 0.9023
+ PSNR: 17.5009 SSIM: 0.5356 MSE: 0.0729 NMI: 1.0638 FSIM: 0.9188
+---------- time cost: 455 s----------
+Adjusting learning rate of group 0 to 3.5000e-05.
+Adjusting learning rate of group 0 to 3.5000e-05.
+Epoch (43/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:25<00:00, 11.42it/s]
+ PSNR: 17.5867 SSIM: 0.4760 MSE: 0.0706 NMI: 1.0590 FSIM: 0.8826
+ PSNR: 17.9368 SSIM: 0.5211 MSE: 0.0658 NMI: 1.0656 FSIM: 0.9150
+---------- time cost: 441 s----------
+Adjusting learning rate of group 0 to 3.0000e-05.
+Adjusting learning rate of group 0 to 3.0000e-05.
+Epoch (44/50) Finished
+100%|█████████████████████████████████████████████████████████████████████████████████| 297/297 [00:26<00:00, 11.19it/s]
+ PSNR: 17.5696 SSIM: 0.4796 MSE: 0.0709 NMI: 1.0586 FSIM: 0.8909
+ PSNR: 17.9280 SSIM: 0.5202 MSE: 0.0659 NMI: 1.0653 FSIM: 0.9170
+---------- time cost: 438 s----------
