@@ -3,7 +3,7 @@
 ## Overview
 
 
-This repository contains the offical PyTorch implementation of the paper: "[Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN]([https://link.springer.com/chapter/10.1007/978-3-031-16434-7_62](https://arxiv.org/pdf/2309.17269.pdf))"
+This repository contains the offical PyTorch implementation of the paper: "[Unpaired Optical Coherence Tomography Angiography Image Super-Resolution via Frequency-Aware Inverse-Consistency GAN](https://link.springer.com/chapter/10.1007/978-3-031-16434-7_62](https://arxiv.org/pdf/2309.17269.pdf)"
 
 
 ## Dependences
@@ -22,7 +22,7 @@ This repository contains the offical PyTorch implementation of the paper: "[Unpa
   ``` 
 
 ## Acknowledgements
-Wavelets operation is developed from [pytorch_wavelets]([https://github.com/orpatashnik/StyleCLIP](https://github.com/fbcotter/pytorch_wavelets)).
+Wavelets operation is developed from [pytorch_wavelets](https://github.com/orpatashnik/StyleCLIP](https://github.com/fbcotter/pytorch_wavelets).
 
 
 ## Citation
