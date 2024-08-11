@@ -37,13 +37,15 @@ class NetworkA2B(nn.Module):
         
         # self.A2B_input = nn.Sequential(*[nn.Conv2d(1, 64, kernel_size=3, stride=1, padding=1, bias=use_bias)
         #                               ])
+        self.resnet_lf = ResnetGenerator(input_nc=1, output_nc=64, n_blocks=5)
+        self.resnet_hf = ResnetGenerator(input_nc=1, output_nc=64, n_blocks=5)
         self.resnet = ResnetGenerator(input_nc=1, output_nc=64, n_blocks=5)
         self.shallow_up = shallowNet(upscale=False, n_downsampling=0)
 
     
     def forward(self, lf, hf):
-        lf_feature = self.resnet(lf) #128^2
-        hf_feature = self.resnet(hf) #64x128^2
+        lf_feature = self.resnet_lf(lf) #128^2
+        hf_feature = self.resnet_hf(hf) #64x128^2
         # zero_padding = torch.zeros_like(lf_feature) #64x256^2
         # hf_feature = self.deep(hf) #64x256^2
         # hf_feature = torch.zeros_like(hf_feature)
@@ -66,7 +68,8 @@ class NetworkB2A(nn.Module):
         #                                 nn.Conv2d(128, 64, kernel_size=3, stride=1, padding=1, bias=use_bias),
         #                                 nn.BatchNorm2d(64)
         #                               ])
-        self.resnet = ResnetGenerator(input_nc=1, output_nc=64, n_blocks=5, n_downsampling=n_downsampling)
+        self.resnet_lf = ResnetGenerator(input_nc=1, output_nc=64, n_blocks=5)
+        self.resnet_hf = ResnetGenerator(input_nc=1, output_nc=64, n_blocks=5)
         self.B2A_input = nn.Sequential(*[nn.Conv2d(1, 128, kernel_size=4, stride=2, padding=1, bias=use_bias)
                                       ])
         self.shallow_down = shallowNet(upscale=False, n_downsampling=0)
@@ -74,8 +77,8 @@ class NetworkB2A(nn.Module):
 
     
     def forward(self, hf, lf):
-        hf_feature = self.resnet(hf) #64x256^2
-        lf_feature = self.resnet(lf) #64x256^2
+        hf_feature = self.resnet_hf(hf) #64x256^2
+        lf_feature = self.resnet_lf(lf) #64x256^2
         # hf_feature = torch.zeros_like(hf_feature)
 
         cat_feature = torch.cat([hf_feature, lf_feature], 1)
